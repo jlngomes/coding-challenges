@@ -32,3 +32,9 @@ class LinkedList:
             self.tail = new_node
 
         self.length += 1
+
+    def prepend(self, value):
+        pass
+
+    def insert(self, index, value):
+        pass
