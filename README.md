@@ -35,12 +35,12 @@ Problems solved on LeetCode, organized by difficulty.
 
 Problems solved on Codewars, organized by difficulty.
 
-| Rank | Problems |
-|------|----------|
-| 🟢 8 kyu | [View problems](./codewars/8kyu) |
-| 🟢 7 kyu | [View problems](./codewars/7kyu) |
-| 🟡 6 kyu | [View problems](./codewars/6kyu) |
-| 🟠 5 kyu | [View problems](./codewars/5kyu) |
+| Rank | Problems                                |
+|------|-----------------------------------------|
+| 🟢 8 kyu | [View problems](./codewars/python/8kyu) |
+| 🟢 7 kyu | [View problems](./codewars/python/7kyu) |
+| 🟡 6 kyu | [View problems](./codewars/python/6kyu) |
+| 🟠 5 kyu | [View problems](./codewars/python/5kyu) |
 
 ---
 
